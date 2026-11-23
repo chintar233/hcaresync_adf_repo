@@ -1,6 +1,11 @@
 {
 	"name": "PL_SOURCE_TO_SILVER_INNER",
 	"properties": {
+		"parameters": {
+			"table_id": {
+				"type": "string"
+			}
+		},
 		"annotations": []
 	}
 }
